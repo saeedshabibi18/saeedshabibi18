@@ -5,7 +5,6 @@
 
 I'm a final-year B.Tech student passionate about building, deploying, and managing scalable cloud infrastructure. I love automating things, containerizing applications, and making systems run smoother.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -25,7 +24,6 @@ I'm a final-year B.Tech student passionate about building, deploying, and managi
 
 **Stack:** Docker · Docker Compose · MongoDB · Node.js
 
----
 
 ### ☁️ [AWS DevOps Hands-On Journal](https://github.com/saeedshabibi18/AWS-learning--journal)
 > A structured, self-maintained documentation of real AWS implementations including:
